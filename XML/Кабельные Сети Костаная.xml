@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<items>
+		<channel>
+			<title>MUZZONE TV</title>
+			<description>696</description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.4:1234]]></stream_url>
+			<region>163</region>
+		</channel>
+		<channel>
+			<title>ON! Пятница</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.3:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Zvezda</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.2:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>TV3 0</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.6:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Музыка Первого</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.8:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Первый канал Евразия</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.7:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>NTV 2</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.9:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>2x2_URAL Mpeg-4</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.10:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>TVCi</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.11:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Телеканал "Футбол"</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.14:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>TNT +2</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.15:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>О!2</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.17:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Viasat Explore</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.18:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>PETPO</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.20:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>3DOPOBOE TB</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.23:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>USADBA</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.24:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Мультимания</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.26:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Bridge TV Русский Хит</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.27:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Сарафан</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.28:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Мульт</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.29:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>TPO</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.30:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>ZEE TV Russia</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.31:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Дом кино</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.32:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Oruzhie</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.34:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Время</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.33:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Живи!</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.35:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>KCK TB</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.37:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Россия 24</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.40:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>1 канал СНГ</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.38:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>TV 1000 Action</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.41:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>МАТЧ! ПЛАНЕТА</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.39:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>КИНОМИКС</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.42:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>TV 1000 Action</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.43:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>TV 1000 Русское Кино</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.44:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>HIT TV</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.46:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Карусель</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.45:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Zoo</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.47:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Bridge TV</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.48:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Eurokino</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.49:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Viasat Sport</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.50:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>КИНОХИТ</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.53:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>NTV MIR</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.56:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>КИНОСЕМЬЯ</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.52:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Россия К</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.55:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>НАШЕ НОВОЕ КИНО</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.54:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Сетанта Спорт</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.60:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Киносерия</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.57:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>HD Life</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.59:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Бобёр</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.58:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Сетанта Спорт+</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.61:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Telekanal 360</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.62:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>KONNYI MIR</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.64:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Новое ТВ</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.63:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Game Show Mpeg4</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.66:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>CTC International</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.67:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>TV21</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.70:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Fashion TV</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.69:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>МИР</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.73:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>REN International</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.72:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Матч Премьер</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.76:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Матч!</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.78:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Родное Кино</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.77:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Шансон ТВ</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.79:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>KCK TB</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.80:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Ностальгия</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.83:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>PYATNITSA +0</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.84:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>RBC</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.85:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>CTB</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.86:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Муз ТВ</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.90:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>1 Канал</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.91:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Россия 1</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.92:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Amedia Hit HD</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.96:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Моя Планета</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.95:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Amedia 1 HD</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.97:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>В гостях у сказки</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.98:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Телекафе</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.99:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>5 Канал</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.100:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Peretz Int</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.102:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>КИНОСВИДАНИЕ</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.105:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Иллюзион+</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.104:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>ИНДИЙСКОЕ КИНО</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.106:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Ю</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.108:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Домашние Животные</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.107:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>FOX</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.109:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Телеканал КХЛ</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.112:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Eurosport 1</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.114:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Eurosport 2</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.115:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>QazSport</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.116:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>ROSSIYA24</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.118:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Fox Life</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.117:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>DOM-INT</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.120:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Валента ТВ</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.119:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Rmusic</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.122:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Discovery</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.124:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Cinema</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.125:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Хабар</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.126:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Теленовелла</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.128:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Точка Отрыва</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.127:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Русский Иллюзион Международная Версия</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.129:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>КИНОПРЕМЬЕРА</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.19:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Пёс и Ко</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.25:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Мужское Кино</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.74:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>НСТ</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.123:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Авто 24</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.110:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>КВН</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.111:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>Kazakhstan Kostanay</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.206:1234]]></stream_url>
+		</channel>
+		<channel>
+			<title>КСК ТВ</title>
+			<description></description>
+			<stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.250:1234]]></stream_url>
+		</channel>
+	</items>
