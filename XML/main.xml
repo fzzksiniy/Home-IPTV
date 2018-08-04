@@ -3,19 +3,19 @@
 	<channel>
 		<title>Кино и Сериалы</title>
 		<description></description>
-		<logo_30x30>https://raw.githubusercontent.com/fzzksiniy/home/master/Icon/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%B8%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B.jpg</logo_30x30>
-		<playlist_url>https://raw.githubusercontent.com/fzzksiniy/home/master/XML/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%B8%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B.xml</playlist_url>
+		<logo_30x30>https://raw.githubusercontent.com/fzzksiniy/Home-IPTV/master/Icon/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%B8%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B.jpg</logo_30x30>
+		<playlist_url>https://raw.githubusercontent.com/fzzksiniy/Home-IPTV/master/XML/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%B8%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B.xml</playlist_url>
 	</channel>
 	<channel>
 		<title>YouTube</title>
 		<description></description>
-		<logo_30x30>https://raw.githubusercontent.com/fzzksiniy/home/master/Icon/YouTube.png</logo_30x30>
+		<logo_30x30>https://raw.githubusercontent.com/fzzksiniy/Home-IPTV/master/Icon/YouTube.png</logo_30x30>
 		<playlist_url>http://smarton.net.ua/youtube/xml</playlist_url>
 	</channel>
 	<channel>
 		<title>ТВ</title>
 		<description></description>
-		<logo_30x30>https://raw.githubusercontent.com/fzzksiniy/home/master/Icon/%D0%A2%D0%92.png</logo_30x30>
-		<playlist_url>https://raw.githubusercontent.com/fzzksiniy/home/master/XML/%D0%A2%D0%92.xml</playlist_url>
+		<logo_30x30>https://raw.githubusercontent.com/fzzksiniy/Home-IPTV/master/Icon/%D0%A2%D0%92.png</logo_30x30>
+		<playlist_url>https://raw.githubusercontent.com/fzzksiniy/Home-IPTV/master/XML/%D0%A2%D0%92.xml</playlist_url>
 	</channel>
 </items>
