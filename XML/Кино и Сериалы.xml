@@ -1,0 +1,12 @@
+<items>
+	<playlist_name>[Home] Кино и Сериалы</playlist_name>
+	<options>
+		<server_script>https://raw.githubusercontent.com/fzzksiniy/home/master/Picture/Wallpaper.jpg</server_script>
+	</options>
+	<channel>
+		<title>MoonWalk.cc [HDRezka.ag]</title>
+		<description></description>
+		<logo_30x30>http://95.46.99.45/images/icons/movie.png</logo_30x30>
+		<playlist_url>http://95.46.99.45/api/mw.json<playlist_url>
+	</channel>
+</items>

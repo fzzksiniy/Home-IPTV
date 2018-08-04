@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-0,Иллюзион+
+http://moscow-commpass.cdnvideo.ru:80/illusion_plus/hls-00/index.m3u8
+#EXTINF:-0,Кинохит
+http://moscow-commpass.cdnvideo.ru:80/kinohit/hls-00/index.m3u8
+#EXTINF:-0,Наше Новое Кино
+http://moscow-commpass.cdnvideo.ru:80/nashe_novoe_kino/hls-00/index.m3u8
+#EXTINF:-0,Первый Канал
+http://moscow-commpass.cdnvideo.ru:80/ort/hls-00/index.m3u8
+#EXTINF:-0,Рен ТВ
+http://moscow-commpass.cdnvideo.ru:80/rentv/hls-00/index.m3u8
+#EXTINF:-0,Россия К
+http://moscow-commpass.cdnvideo.ru:80/culture/hls-00/index.m3u8
+#EXTINF:-0,СТС
+http://moscow-commpass.cdnvideo.ru:80/sts/hls-00/index.m3u8

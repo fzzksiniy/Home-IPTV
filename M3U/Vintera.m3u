@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,ACB TV
+http://serv30.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1,FoodMan Club TV HD
+http://serv25.vintera.tv:8081/foodman/club/playlist.m3u8
+#EXTINF:-1,Ветта 24
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1,Волгоград 24
+http://serv24.vintera.tv:8081/volga24/volgograd24/playlist.m3u8
+#EXTINF:-1,Калейдоскоп ТВ
+http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+#EXTINF:-1,Классика Кино
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1,Липецкое Время
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:-1,Мой Мир
+http://serv28.vintera.tv:8081/mediapark/moimir/playlist.m3u8
+#EXTINF:-1,Неизвестная планета HD
+http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
+#EXTINF:-1,Новое Телевидение
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1,Ростов-папа HD
+http://serv30.vintera.tv:8081/rostovpapa/rostovpapa_stream/playlist.m3u8
+#EXTINF:-1,Свое ТВ (Ставрополь)
+http://serv24.vintera.tv:8081/svoetv/stvsd/playlist.m3u8
+#EXTINF:-1,Сказки Зайки
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1,Точка ТВ
+http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
+#EXTINF:-1,Че
+http://serv30.vintera.tv:8081/provider/che23/playlist.m3u8
+#EXTINF:-1,Юрган ТВ HD
+http://urgan.vintera.tv:8081/urgan/urganhd/playlist.m3u8

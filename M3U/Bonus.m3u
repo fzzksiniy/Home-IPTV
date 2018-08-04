@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1,12 Канал (Омск)
+http://cdn-01.bonus-tv.ru:8080/omsk/tracks-v1a1/index.m3u8
+#EXTINF:-1,12 канал (Омск)
+http://cdn-01.bonus-tv.ru:8080/omsk/tracks-v2a1/index.m3u8
+#EXTINF:-1,1HD Music TV
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v3a1/index.m3u8
+#EXTINF:-1,1HD Music TV [FHD]
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v2a1/index.m3u8
+#EXTINF:-1,1HD Music TV [HD]
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1,ACB TV
+http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
+#EXTINF:-1,ACB TV
+http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v2a1/index.m3u8
+#EXTINF:-1,Arirang TV
+http://cdn-01.bonus-tv.ru:8080/arirang_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,E TV HD
+http://cdn-01.bonus-tv.ru:8080/gameshow_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Leomax
+http://cdn-01.bonus-tv.ru:8080/Leomax/tracks-v1a1/index.m3u8
+#EXTINF:-1,RT
+http://cdn-01.bonus-tv.ru:8080/RussiaToday/tracks-v3a1/index.m3u8
+#EXTINF:-1,RT HD
+http://cdn-01.bonus-tv.ru:8080/RussiaToday/tracks-v2a1/index.m3u8
+#EXTINF:-1,RT [FHD]
+http://cdn-01.bonus-tv.ru:8080/RussiaToday/tracks-v1a1/index.m3u8
+#EXTINF:-1,RT Документальный
+http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v3a1/index.m3u8
+#EXTINF:-1,RT Документальный HD
+http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v2a1/index.m3u8
+#EXTINF:-1,RT Документальный [FHD]
+http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v1a1/index.m3u8
+#EXTINF:-1,Shop 24
+http://cdn-01.bonus-tv.ru:8080/shop24_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,TVM Channel
+http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,World Fashion Channel International
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
+#EXTINF:-1,World Fashion Channel International HD
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+#EXTINF:-1,World Fashion Channel International [FHD]
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
+#EXTINF:-1,World Fashion Channel Россия
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8
+#EXTINF:-1,World Fashion Channel Россия HD
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
+#EXTINF:-1,World Fashion Channel Россия [FHD]
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v2a1/index.m3u8
+#EXTINF:-1,Астрахань 24 HD
+http://cdn-01.bonus-tv.ru:8080/astrakhan24_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,БСТ
+http://bsttv.bonus-tv.ru:80/cdn/bst/tracks-v1a1/index.m3u8
+#EXTINF:-1,БСТ
+http://bsttv.bonus-tv.ru:80/cdn/bst/tracks-v2a1/index.m3u8
+#EXTINF:-1,Вместе РФ ТВ HD
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1,Дисконт
+http://cdn-01.bonus-tv.ru:8080/TTC/tracks-v1a1/index.m3u8
+#EXTINF:-1,Дон 24
+http://cdn-01.bonus-tv.ru:8080/don24/tracks-v3a1/index.m3u8
+#EXTINF:-1,Дон 24 [FHD]
+http://cdn-01.bonus-tv.ru:8080/don24/tracks-v1a1/index.m3u8
+#EXTINF:-1,Звезда
+http://cdn-01.bonus-tv.ru:8080/zvezda/tracks-v1a1/index.m3u8
+#EXTINF:-1,Звезда
+http://cdn-01.bonus-tv.ru:8080/zvezda/tracks-v2a1/index.m3u8
+#EXTINF:-1,Калейдоскоп ТВ
+http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Конный Мир
+http://cdn-01.bonus-tv.ru:8080/konnyimir_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Крик ТВ
+http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Курай ТВ
+http://cdn-01.bonus-tv.ru:8080/kurai_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Продвижение (Омск)
+http://cdn-01.bonus-tv.ru:8080/prodvizhenie/tracks-v1a1/index.m3u8
+#EXTINF:-1,Просвещение
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Радость Моя
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Россия 1 HD
+http://cdn-01.bonus-tv.ru:8080/russia_hd/tracks-v1a1/index.m3u8?token=null
+#EXTINF:-1,ТНВ Планета
+http://cdn-01.bonus-tv.ru:8080/tnv_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,ТНТ
+http://cdn-01.bonus-tv.ru:8080/tnt_stream/tracks-v1a1/index.m3u8
+#EXTINF:-1,ТНТ
+http://cdn-01.bonus-tv.ru:8080/tnt_stream/tracks-v2a1/index.m3u8
+#EXTINF:-1,ТНТ Music
+http://cdn-01.bonus-tv.ru:8080/tntmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1,Тамыр ТВ
+http://cdn-01.bonus-tv.ru:8080/tamyr_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Толпар ТВ
+http://cdn-10.bonus-tv.ru:80/tolpartv_origin/index.m3u8
+#EXTINF:-1,Точка ТВ
+http://cdn-01.bonus-tv.ru:8080/tochkatv_edge/tracks-v1a1/index.m3u8

@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-0,Первый
+http://stream4.kuvalda.tv/hls/first.m3u8
+#EXTINF:-0,Россия 1
+http://stream.kuvalda.tv/hls/rus1.m3u8
+#EXTINF:-0,НТВ
+http://stream2.kuvalda.tv/hls/ntv.m3u8
+#EXTINF:-0,Рен ТВ
+http://stream3.kuvalda.tv/hls/ren.m3u8
+#EXTINF:-0,СТС
+http://stream.kuvalda.tv/hls/sts.m3u8
+#EXTINF:-0,Звезда
+http://stream.kuvalda.tv/hls/zvezda.m3u8
+#EXTINF:-0,ТВЦ
+http://stream3.kuvalda.tv/hls/tvc.m3u8
+#EXTINF:-0,Пятый
+http://stream2.kuvalda.tv/hls/5kanal.m3u8
+#EXTINF:-0,Россия 24
+http://stream4.kuvalda.tv/hls/rus24.m3u8
+#EXTINF:-0,ТНТ
+http://stream.kuvalda.tv/hls/tnt.m3u8
+#EXTINF:-0,ТВ3
+http://stream.kuvalda.tv/hls/tv3.m3u8
+#EXTINF:-0,Домашний
+http://stream.kuvalda.tv/hls/dom.m3u8
+#EXTINF:-0,Пятница
+http://stream3.kuvalda.tv/hls/pyatnica.m3u8
+#EXTINF:-0,Че
+http://stream4.kuvalda.tv/hls/che.m3u8
+#EXTINF:-0,Ю
+http://stream6.kuvalda.tv/hls/u.m3u8
+#EXTINF:-0,Россия К
+http://stream.kuvalda.tv/hls/kultura.m3u8
+#EXTINF:-0,Карусель
+http://stream4.kuvalda.tv/hls/karusel.m3u8
+#EXTINF:-0,Disney
+http://stream5.kuvalda.tv/hls/disney.m3u8
+#EXTINF:-0,ОТР
+http://stream5.kuvalda.tv/hls/otr.m3u8

@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-0,Телеканал "Футбол"
+http://yandex.kp0t.ga/kal/football/football0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-0,Загородный int.
+http://yandex.kp0t.ga/kal/zagorod/zagorod0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-0,Загородный int. HD
+http://yandex.kp0t.ga/kal/zagorod/zagorod0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-0,Охотник и рыболов int.
+http://yandex.kp0t.ga/kal/ohotnik/ohotnik0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-0,Охотник и рыболов int. HD
+http://yandex.kp0t.ga/kal/ohotnik/ohotnik0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-0,НТВ Стиль
+http://yandex.kp0t.ga/kal/ntv_style/ntv_style0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:-0,RTG HD
+http://yandex.kp0t.ga/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-0,RTG
+http://yandex.kp0t.ga/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-0,Россия 24
+http://yandex.kp0t.ga/kal/russia24/russia240_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-0,Рен ТВ
+http://yandex.kp0t.ga/kal/rentv_ad_supres/rentv_ad_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-0,Рен ТВ HD
+http://yandex.kp0t.ga/kal/rentv_ad_supres/rentv_ad_supres0_169_720p.json/index-v1-a1.m3u8
