@@ -1,0 +1,281 @@
+#EXTM3U
+#EXTINF:-0,M2
+http://50.7.136.50:8081/m2/index.m3u8
+#EXTINF:-0,M1
+http://50.7.136.50:8081/m1/tracks-1,2/index.m3u8
+#EXTINF:-0,K1
+http://109.68.40.72/life/k1_2/index.m3u8
+#EXTINF:-0,Кинопремьера
+http://50.7.136.50:8081/kinopremera/index.m3u8
+#EXTINF:-0,Тлум HD
+http://50.7.136.50:8081/tlym/index.m3u8
+#EXTINF:-0,Кинопоказ 2 HD
+http://50.7.136.50:8081/kinopokaz2/index.m3u8
+#EXTINF:-0,Кинопоказ 1 HD
+http://50.7.136.50:8081/kinopokaz1/index.m3u8
+#EXTINF:-0,Amedia Hit
+http://50.7.136.50:8081/amediahit/index.m3u8
+#EXTINF:-0,Кинопремиум HD
+http://50.7.136.50:8081/kinoprem/index.m3u8
+#EXTINF:-0,Русская Комедия
+http://50.7.136.50:8081/ryskomedi/index.m3u8
+#EXTINF:-0,ТНТ Music
+http://50.7.136.50:8081/tnt_myzik/index.m3u8
+#EXTINF:-0,Bridge TV Dance
+http://50.7.136.50:8081/dange/index.m3u8
+#EXTINF:-0,Зоо ТВ
+http://50.7.136.50:8081/zootv/index.m3u8
+#EXTINF:-0,Загородная Жизнь
+http://50.7.136.50:8081/zagorod/index.m3u8
+#EXTINF:-0,Бобёр
+http://50.7.136.50:8081/bober/index.m3u8
+#EXTINF:-0,Дом Кино Премиум HD
+http://50.7.136.50:8081/dom_prem/index.m3u8
+#EXTINF:-0,Sony Turbo
+http://50.7.136.50:8081/sony_turbo/tracks-1,2/index.m3u8
+#EXTINF:-0,AMC
+http://50.7.136.50:8081/amc/index.m3u8
+#EXTINF:-0,Nat Geo Wild
+http://50.7.136.50:8081/natgeowild/index.m3u8
+#EXTINF:-0,Наш Кинороман HD
+http://50.7.136.50:8081/nashe/index.m3u8
+#EXTINF:-0,360
+http://50.7.136.50:8081/360gra/index.m3u8
+#EXTINF:-0,Planeta RTR
+http://50.7.136.50:8081/rtr/index.m3u8
+#EXTINF:-0,VH1 European
+http://50.7.136.50:8081/vh1/index.m3u8
+#EXTINF:-0,Мужское Кино
+http://50.7.136.50:8081/myz_kino/index.m3u8
+#EXTINF:-0,Карусель
+http://50.7.136.50:8081/karusel/index.m3u8
+#EXTINF:-0,Киносерия
+http://50.7.136.50:8081/mnogo_tv/index.m3u8
+#EXTINF:-0,Bridge TV
+http://50.7.136.50:8081/bridge/index.m3u8
+#EXTINF:-0,Русский Детектив
+http://50.7.136.50:8081/rys_dete/index.m3u8
+#EXTINF:-0,Русский Роман
+http://50.7.136.50:8081/rys_roman/index.m3u8
+#EXTINF:-0,MGM HD
+http://50.7.136.50:8081/mgm/index.m3u8
+#EXTINF:-0,Мужской
+http://50.7.136.50:8081/muzhskoj/index.m3u8
+#EXTINF:-0,Наш Детектив HD
+http://50.7.136.50:8081/semeinoe/index.m3u8
+#EXTINF:-0,Остросюжетное HD
+http://50.7.136.50:8081/ostrosujetnoe/index.m3u8
+#EXTINF:-0,Страшное HD
+http://50.7.136.50:8081/strachnoe/index.m3u8
+#EXTINF:-0,Еда Премиум
+http://50.7.136.50:8081/eda/index.m3u8
+#EXTINF:-0,Кино ТВ
+http://50.7.136.50:8081/tv_kino/index.m3u8
+#EXTINF:-0,Еврокино
+http://50.7.136.50:8081/eurokino/index.m3u8
+#EXTINF:-0,Охотник и Рыболов
+http://50.7.136.50:8081/oxot_i_rib/index.m3u8
+#EXTINF:-0,Русский Бестселлер
+http://50.7.136.50:8081/rys_bes/index.m3u8
+#EXTINF:-0,A2
+http://50.7.136.50:8081/amedia_2/index.m3u8
+#EXTINF:-0,Travel+Adventure HD
+http://50.7.136.50:8081/travel_adventure/index.m3u8
+#EXTINF:-0,SET
+http://50.7.136.50:8081/set/index.m3u8
+#EXTINF:-0,Дом Кино
+http://50.7.136.50:8081/domkino/index.m3u8
+#EXTINF:-0,MTV
+http://50.7.136.50:8081/mtv_rys/index.m3u8
+#EXTINF:-0,A1
+http://50.7.136.50:8081/amedia_1/index.m3u8
+#EXTINF:-0,Fox Life
+http://50.7.136.50:8081/fox_l/index.m3u8
+#EXTINF:-0,Fox
+http://50.7.136.50:8081/fox/index.m3u8
+#EXTINF:-0,Кинокомедия
+http://50.7.136.50:8081/komediya/index.m3u8
+#EXTINF:-0,Наука
+http://50.7.136.50:8081/nauka/index.m3u8
+#EXTINF:-0,Amedia Premium
+http://50.7.136.50:8081/amedia_pre/index.m3u8
+#EXTINF:-0,Русский Иллюзион
+http://50.7.136.50:8081/illuzion_rus/index.m3u8
+#EXTINF:-0,Иллюзион+
+http://50.7.136.50:8081/illyuzion_pl/index.m3u8
+#EXTINF:-0,History
+http://50.7.136.50:8081/history/tracks-1,2/index.m3u8
+#EXTINF:-0,Мульт
+http://50.7.136.50:8081/mult/index.m3u8
+#EXTINF:-0,НСТ
+http://50.7.136.50:8081/nst/index.m3u8
+#EXTINF:-0,TVXXI
+http://50.7.136.50:8081/tv21/index.m3u8
+#EXTINF:-0,ТНТ4
+http://50.7.136.50:8081/tnt_com/index.m3u8
+#EXTINF:-0,Disney
+http://50.7.136.50:8081/disney/index.m3u8
+#EXTINF:-0,Nickelodeon
+http://50.7.136.50:8081/nickelodeon/index.m3u8
+#EXTINF:-0,Россия 1
+http://50.7.136.50:8081/ros_1/index.m3u8
+#EXTINF:-0,НТВ
+http://50.7.136.50:8081/ntv/index.m3u8
+#EXTINF:-0,ON! Пятница
+http://109.248.236.41:4433/udp/238.1.1.3:1234
+#EXTINF:-0,Музыка Первого
+http://109.248.236.41:4433/udp/238.1.1.8:1234
+#EXTINF:-0,Первый Канал Евразия
+http://109.248.236.41:4433/udp/238.1.1.7:1234
+#EXTINF:-0,НТВ +2
+http://109.248.236.41:4433/udp/238.1.1.9:1234
+#EXTINF:-0,2x2 +2
+http://109.248.236.41:4433/udp/238.1.1.10:1234
+#EXTINF:-0,ТНТ +2
+http://109.248.236.41:4433/udp/238.1.1.15:1234
+#EXTINF:-0,Усадьба
+http://109.248.236.41:4433/udp/238.1.1.24:1234
+#EXTINF:-0,Первый Канал СНГ
+http://109.248.236.41:4433/udp/238.1.1.38:1234
+#EXTINF:-0,TV1000
+http://109.248.236.41:4433/udp/238.1.1.41:1234
+#EXTINF:-0,Киномикс
+http://109.248.236.41:4433/udp/238.1.1.42:1234
+#EXTINF:-0,TV1000 Action
+http://109.248.236.41:4433/udp/238.1.1.43:1234
+#EXTINF:-0,TV1000 Русское Кино
+http://109.248.236.41:4433/udp/238.1.1.44:1234
+#EXTINF:-0,HIT TV
+http://109.248.236.41:4433/udp/238.1.1.46:1234
+#EXTINF:-0,Кинохит
+http://109.248.236.41:4433/udp/238.1.1.53:1234
+#EXTINF:-0,НТВ Мир
+http://109.248.236.41:4433/udp/238.1.1.56:1234
+#EXTINF:-0,Киносемья
+http://109.248.236.41:4433/udp/238.1.1.52:1234
+#EXTINF:-0,Наше Новое Кино
+http://109.248.236.41:4433/udp/238.1.1.54:1234
+#EXTINF:-0,E
+http://109.248.236.41:4433/udp/238.1.1.66:1234
+#EXTINF:-0,СТС International
+http://109.248.236.41:4433/udp/238.1.1.67:1234
+#EXTINF:-0,Мир +3
+http://109.248.236.41:4433/udp/238.1.1.73:1234
+#EXTINF:-0,Рен International
+http://109.248.236.41:4433/udp/238.1.1.72:1234
+#EXTINF:-0,Родное Кино
+http://109.248.236.41:4433/udp/238.1.1.77:1234
+#EXTINF:-0,Пятница
+http://109.248.236.41:4433/udp/238.1.1.84:1234
+#EXTINF:-0,Первый +2
+http://109.248.236.41:4433/udp/238.1.1.91:1234
+#EXTINF:-0,Россия 1 +2
+http://109.248.236.41:4433/udp/238.1.1.92:1234
+#EXTINF:-0,Amedia Hit HD
+http://109.248.236.41:4433/udp/238.1.1.96:1234
+#EXTINF:-0,A1 HD
+http://109.248.236.41:4433/udp/238.1.1.97:1234
+#EXTINF:-0,Телекафе
+http://109.248.236.41:4433/udp/238.1.1.99:1234
+#EXTINF:-0,Перец International
+http://109.248.236.41:4433/udp/238.1.1.102:1234
+#EXTINF:-0,Киносвидание
+http://109.248.236.41:4433/udp/238.1.1.105:1234
+#EXTINF:-0,Домашние Животные
+http://109.248.236.41:4433/udp/238.1.1.107:1234
+#EXTINF:-0,Домашний International
+http://109.248.236.41:4433/udp/238.1.1.120:1234
+#EXTINF:-0,RMusic
+http://109.248.236.41:4433/udp/238.1.1.122:1234
+#EXTINF:-0,Cinema
+http://109.248.236.41:4433/udp/238.1.1.125:1234
+#EXTINF:-0,Русский Иллюзион Международная Версия
+http://109.248.236.41:4433/udp/238.1.1.129:1234
+#EXTINF:-0,ТНТ4 +2
+http://109.248.236.41:4433/udp/238.1.1.12:1234
+#EXTINF:-0,ТНТ +2
+http://109.248.236.41:4433/udp/238.1.1.15:1234
+#EXTINF:-0,Россия РТР
+http://109.248.236.41:4433/udp/238.1.1.16:1234
+#EXTINF:-0,Amedia Premium HD
+http://109.248.236.41:4433/udp/238.1.1.71:1234
+#EXTINF:-0,Music Box Gold
+http://live-musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
+#EXTINF:-0,Ru.TV
+http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
+#EXTINF:-0,Ru.TV HD
+http://live-rmg.cdnvideo.ru/rmg/rutv_hd.sdp/playlist.m3u8
+#EXTINF:-0,Russian Music Box
+http://live-musicbox.cdnvideo.ru/musicbox2/musicbox.sdp/playlist.m3u8
+#EXTINF:-0,Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-0,Мир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-0,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-0,Первый
+http://moscow-commpass.cdnvideo.ru:80/ort/hls-00/index.m3u8
+#EXTINF:-0,СТС
+http://moscow-commpass.cdnvideo.ru:80/sts/hls-00/index.m3u8
+#EXTINF:-0,Юмор Box
+http://live-musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
+#EXTINF:-0,НТВ Стиль
+http://yandex.kp0t.ga/kal/ntv_style/ntv_style0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:-0,Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-0,ТНТ +4
+http://195.88.16.15/tnt/index.m3u8
+#EXTINF:-0,Nickelodeon HD
+http://195.88.16.15/nickelodeonhd/index.m3u8
+#EXTINF:-0,Рыжий
+https://ivi-tv3-ryzhyi.cdnvideo.ru/channel/ryzhyi/480p.m3u8
+#EXTINF:-0,Телепутешествия
+https://ivi-tv3-puteshestvia.cdnvideo.ru/channel/teleputeshestvia/480p.m3u8
+#EXTINF:-0,Вопросы и Ответы
+https://ivi-tv2.cdnvideo.ru/live/ivi/qanda/playlist_sdhigh.m3u8
+#EXTINF:-0,Охотник и Рыболов HD
+https://ivi-tv3-ohotnik-hd.cdnvideo.ru/channel/Ohotnik_i_rybolov_HD/1080p.m3u8
+#EXTINF:-0,Наша Сибирь HD
+https://ivi-tv3-nashasibir-hd.cdnvideo.ru/channel/NashaSibir_HD/1080p.m3u8
+#EXTINF:-0,TRICK HD
+https://ivi-tv3-trick-hd.cdnvideo.ru/channel/Trick_HD/1080p.m3u8
+#EXTINF:-0,MTV HD
+https://ivi-tv2.cdnvideo.ru/live/ivi/mtvhd/playlist_hdhigh.m3u8
+#EXTINF:-0,В Мире Животных HD
+https://ivi-tv3-animal.cdnvideo.ru/channel/Animal_Family_HD/1080p.m3u8
+#EXTINF:-0,Приключения HD
+https://ivi-tv3-puteshestvia-hd.cdnvideo.ru/channel/Teleputeshestvia_HD/1080p.m3u8
+#EXTINF:-0,Eureka HD
+https://ivi-tv3-eureka-hd.cdnvideo.ru/channel/Eureka_HD/1080p.m3u8
+#EXTINF:-0,Первый
+http://stream4.kuvalda.tv/hls/first.m3u8
+#EXTINF:-0,Россия 1
+http://stream.kuvalda.tv/hls/rus1.m3u8
+#EXTINF:-0,НТВ
+http://stream2.kuvalda.tv/hls/ntv.m3u8
+#EXTINF:-0,Рен ТВ
+http://stream3.kuvalda.tv/hls/ren.m3u8
+#EXTINF:-0,СТС
+http://stream.kuvalda.tv/hls/sts.m3u8
+#EXTINF:-0,ТНТ
+http://stream.kuvalda.tv/hls/tnt.m3u8
+#EXTINF:-0,Домашний
+http://stream.kuvalda.tv/hls/dom.m3u8
+#EXTINF:-0,Пятница
+http://stream3.kuvalda.tv/hls/pyatnica.m3u8
+#EXTINF:-0,Беларусь 2
+http://vod.mors.by/channel?id=46&u=crash&p=crash
+#EXTINF:-0,Россия 1 (+4)
+http://auth.tvtune.net/h/227/1/6/MkFKazI3dlFPVnY2UTFBRE5WM1dUWE9T
+#EXTINF:-0,Первый канал (+4)
+http://auth.tvtune.net/h/220/1/6/endKbU1idlFPVnU1bThJNUtNMEdDVnZT
+#EXTINF:-0,FoodMan Club TV HD
+http://serv25.vintera.tv:8081/foodman/club/playlist.m3u8
+#EXTINF:-0,Классика Кино
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-0,Неизвестная планета HD
+http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
+#EXTINF:-0,Загородный int.
+http://yandex.kp0t.ga/kal/zagorod/zagorod0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-0,Загородный int. HD
+http://yandex.kp0t.ga/kal/zagorod/zagorod0_169_720p.json/index-v1-a1.m3u8
