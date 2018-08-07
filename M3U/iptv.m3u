@@ -1,0 +1,327 @@
+#EXTM3U
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|1" tvg-logo="http://smartepg.ru/logos/40009/square/48.png", 1 HD
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v2a1/index.m3u8
+#EXTINF:-0,RT Документальный
+http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v1a1/index.m3u8
+#EXTINF:-0,RT Документальный
+http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v3a1/index.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|330" tvg-logo="http://smartepg.ru/logos/40009/square/16.png", Звезда
+http://cdn-01.bonus-tv.ru:8080/zvezda/tracks-v2a1/index.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|501797" tvg-logo="http://smartepg.ru/logos/40001/square/1001.png", M-1 Global HD
+http://live-m1globaltv.cdnvideo.ru/m1globaltv/smil:m1globaltv-rtmp-ru.smil/chunklist_b4628001.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|82" tvg-logo="http://smartepg.ru/logos/40003/square/411.png", Music Box Gold
+http://live-musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|106" tvg-logo="http://smartepg.ru/logos/40009/square/898.png", RU.TV
+http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|106" tvg-logo="http://smartepg.ru/logos/40009/square/898.png", RU.TV HD
+http://live-rmg.cdnvideo.ru/rmg/rutv_hd.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|81" tvg-logo="http://smartepg.ru/logos/40009/square/769.png", Russian Music Box
+http://live-musicbox.cdnvideo.ru/musicbox2/musicbox.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40003|1063" tvg-logo="http://smartepg.ru/logos/40009/square/287.png", Бокс ТВ HD
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/boxingtvru_hq/playlist.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|177" tvg-logo="http://smartepg.ru/logos/40001/square/53.png", Иллюзион+
+http://moscow-commpass.cdnvideo.ru:80/illusion_plus/hls-00/index.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|188" tvg-logo="http://smartepg.ru/logos/40009/square/103.png", Кинохит
+http://moscow-commpass.cdnvideo.ru:80/kinohit/hls-00/index.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|100010" tvg-logo="http://smartepg.ru/logos/40001/square/4.png", МИР
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40003|986" tvg-shift=4 tvg-logo="http://smartepg.ru/logos/40009/square/25.png", Мир (+7)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|212" tvg-logo="http://smartepg.ru/logos/40001/square/4.png", Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|214" tvg-logo="http://smartepg.ru/logos/40001/square/321.png", МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|233" tvg-logo="http://smartepg.ru/logos/40009/square/108.png", Наше новое кино
+http://moscow-commpass.cdnvideo.ru:80/nashe_novoe_kino/hls-00/index.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|739" tvg-logo="http://smartepg.ru/logos/40001/square/354.png", Первый метео
+http://live-meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|1" tvg-logo="http://smartepg.ru/logos/40001/square/1.png", Первый канал
+http://moscow-commpass.cdnvideo.ru:80/ort/hls-00/index.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|103" tvg-logo="http://smartepg.ru/logos/40009/square/13.png", РЕН ТВ
+http://moscow-commpass.cdnvideo.ru:80/rentv/hls-00/index.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|270" tvg-logo="http://smartepg.ru/logos/40009/square/9.png", Россия К
+http://moscow-commpass.cdnvideo.ru:80/culture/hls-00/index.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|104" tvg-logo="http://smartepg.ru/logos/40009/square/14.png", СТС
+http://moscow-commpass.cdnvideo.ru:80/sts/hls-00/index.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|309" tvg-logo="http://smartepg.ru/logos/40009/square/192.png", Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|312" tvg-logo="http://smartepg.ru/logos/40010/square/312.png", Юмор Box
+http://live-musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|41" tvg-logo="http://smartepg.ru/logos/40010/square/41.png", Eureka HD
+https://ivi-tv3-eureka-hd.cdnvideo.ru/channel/Eureka_HD/1080p.m3u8
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/213/channels/331" tvg-logo="http://smartepg.ru/logos/40009/square/963.png", Приключения HD
+https://ivi-tv3-puteshestvia-hd.cdnvideo.ru/channel/Teleputeshestvia_HD/1080p.m3u8
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/213/channels/1729" tvg-logo="http://smartepg.ru/logos/40001/square/290.png", В мире животных HD
+https://ivi-tv3-animal.cdnvideo.ru/channel/Animal_Family_HD/1080p.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|59" tvg-logo="http://smartepg.ru/logos/40009/square/692.png", Ginger HD
+https://ivi-tv3-ginger-hd.cdnvideo.ru/channel/Ginger_HD/1080p.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|80" tvg-logo="http://smartepg.ru/logos/40004/square/6472.png", MTV HD
+https://ivi-tv2.cdnvideo.ru/live/ivi/mtvhd/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|126" tvg-logo="http://smartepg.ru/logos/40009/square/36.png", Travel+Adventure HD
+https://ivi-tv3-t-and-a-hd.cdnvideo.ru/channel/T_and_A_HD/1080p.m3u8
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/213/channels/1746" tvg-logo="http://smartepg.ru/logos/40001/square/870.png", TRICK HD
+https://ivi-tv3-trick-hd.cdnvideo.ru/channel/Trick_HD/1080p.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|373" tvg-logo="http://smartepg.ru/logos/40009/square/900.png", Наша Сибирь HD
+https://ivi-tv3-nashasibir-hd.cdnvideo.ru/channel/NashaSibir_HD/1080p.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|244" tvg-logo="http://smartepg.ru/logos/40009/square/734.png", Охотник и рыболов HD
+https://ivi-tv3-ohotnik-hd.cdnvideo.ru/channel/Ohotnik_i_rybolov_HD/1080p.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|369" tvg-logo="http://smartepg.ru/logos/40009/square/233.png", О2ТВ
+https://ivi-tv3-o2-hd.cdnvideo.ru/channel/O2_HD/1080p.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|267" tvg-logo="http://smartepg.ru/logos/40009/square/750.png", Россия 24
+https://ivi-tv2.cdnvideo.ru/live/ivi/russia24/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|151" tvg-logo="http://smartepg.ru/logos/40010/square/151.png", АВТО 24
+https://ivi-tv2.cdnvideo.ru/live/ivi/auto24/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|165" tvg-logo="http://smartepg.ru/logos/40001/square/238.png", Драйв
+https://ivi-tv2.cdnvideo.ru/live/ivi/drive/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|157" tvg-logo="http://smartepg.ru/logos/40001/square/152.png", Вопросы и ответы
+https://ivi-tv2.cdnvideo.ru/live/ivi/qanda/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|164" tvg-logo="http://smartepg.ru/logos/40001/square/237.png", Домашние животные
+https://ivi-tv2.cdnvideo.ru/live/ivi/domzhiv/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|242" tvg-logo="http://smartepg.ru/logos/40001/square/251.png", Охота и рыбалка
+https://ivi-tv2.cdnvideo.ru/live/ivi/ohotarybalka/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|253" tvg-logo="http://smartepg.ru/logos/40001/square/255.png", Психология 21
+https://ivi-tv2.cdnvideo.ru/live/ivi/psihologiya/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|262" tvg-logo="http://smartepg.ru/logos/40001/square/257.png", Ретро
+https://ivi-tv2.cdnvideo.ru/live/ivi/retro/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|175" tvg-logo="http://smartepg.ru/logos/40001/square/243.png", Здоровое ТВ
+https://ivi-tv2.cdnvideo.ru/live/ivi/zdorovye/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|303" tvg-logo="http://smartepg.ru/logos/40001/square/268.png", Усадьба ТВ
+https://ivi-tv2.cdnvideo.ru/live/ivi/usadba/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|166" tvg-logo="http://smartepg.ru/logos/40009/square/132.png", ЕВРОКИНО
+https://ivi-tv2.cdnvideo.ru/live/ivi/eurokino/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40003|1317" tvg-logo="http://smartepg.ru/logos/40001/square/957.png", Дорама HD
+https://ivi-tv3-dorama.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|177" tvg-logo="http://smartepg.ru/logos/40001/square/53.png", Иллюзион+
+https://ivi-tv2.cdnvideo.ru/live/ivi/illusion/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|274" tvg-logo="http://smartepg.ru/logos/40009/square/114.png", Русский иллюзион
+https://ivi-tv2.cdnvideo.ru/live/ivi/rusillusion/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|176" tvg-logo="http://smartepg.ru/logos/40001/square/149.png", Зоо ТВ
+https://ivi-tv3-zoo.cdnvideo.ru/channel/zootv/480p.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40003|331" tvg-logo="http://smartepg.ru/logos/40009/square/183.png", ZooПарк
+https://ivi-tv2.cdnvideo.ru/live/ivi/zoopark/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|339" tvg-logo="http://smartepg.ru/logos/40009/square/848.png", НТВ Стиль
+https://ivi-tv3-ntv-stile.cdnvideo.ru/channel/NTV_Stile/480p.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|355" tvg-logo="http://smartepg.ru/logos/40009/square/733.png", Наше ТВ
+https://ivi-tv2.cdnvideo.ru/live/ivi/nashetv/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|501794" tvg-logo="http://smartepg.ru/logos/40001/square/925.png", Теленовелла
+https://ivi-tv2.cdnvideo.ru/live/ivi/telenovella/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|295" tvg-logo="http://smartepg.ru/logos/40009/square/121.png", Телепутешествия
+https://ivi-tv3-puteshestvia.cdnvideo.ru/channel/teleputeshestvia/480p.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40001|984" tvg-logo="http://smartepg.ru/logos/40001/square/984.png", Точка отрыва
+https://ivi-tv2.cdnvideo.ru/live/ivi/tochkaotr/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|501720" tvg-logo="http://smartepg.ru/logos/40001/square/872.png", В гостях у сказки
+https://ivi-tv3-u-skazki.cdnvideo.ru/channel/v_gostyah_u_skazki/480p.m3u8
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/213/channels/66" tvg-logo="http://smartepg.ru/logos/40001/square/282.png", Детский
+https://ivi-tv2.cdnvideo.ru/live/ivi/detskiy/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|91" tvg-logo="http://smartepg.ru/logos/40009/square/57.png", Nick Jr.
+https://ivi-tv2.cdnvideo.ru/live/ivi/nickjr/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|278" tvg-logo="http://smartepg.ru/logos/40009/square/299.png", Рыжий
+https://ivi-tv3-ryzhyi.cdnvideo.ru/channel/ryzhyi/480p.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40003|112" tvg-logo="data:image/jpeg;base64,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", Cinema (Космос ТВ)
+http://streamer.cosmostv.by/streaming/cinema_cosmostv/604/copy/playlist.m3u8
+#EXTINF:-1,Киноменю HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/213/channels/1649" tvg-logo="http://smartepg.ru/logos/40009/square/689.png", ТНТ4
+http://infolink.cdnvideo.ru/streaming/tnt4/324/vh1/playlist.m3u8
+#EXTINF:-1,Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|270" tvg-logo="http://smartepg.ru/logos/40009/square/9.png", Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_hig.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|300055" tvg-logo="http://smartepg.ru/logos/40009/square/359.png", НТВ-Мир
+http://rus1.canlitvplayer.com/ntvmir/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|300071" tvg-logo="http://smartepg.ru/logos/40009/square/395.png", Беларусь 1
+http://vod.mors.by/channel?id=45&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|100010" tvg-logo="http://smartepg.ru/logos/40001/square/4.png", МИР Беларусь
+http://vod.mors.by/channel?id=51&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|300030" tvg-logo="http://smartepg.ru/logos/40009/square/396.png", Беларусь 2
+http://vod.mors.by/channel?id=46&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|400007" tvg-logo="http://smartepg.ru/logos/40001/square/423.png", Беларусь 3
+http://vod.mors.by/channel?id=52&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|270" tvg-logo="http://smartepg.ru/logos/40009/square/9.png", Россия К
+http://vod.mors.by/channel?id=118&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40003|1105" tvg-logo="http://smartepg.ru/logos/40009/square/744.png", Домашний International
+http://vod.mors.by/channel?id=6&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|300029" tvg-logo="http://smartepg.ru/logos/40003/square/111.png", ОНТ (Беларусь)
+http://vod.mors.by/channel?id=47&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|300048" tvg-logo="http://smartepg.ru/logos/40009/square/399.png", СТВ
+http://vod.mors.by/channel?id=48&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|300053" tvg-logo="http://smartepg.ru/logos/40009/square/397.png", НТВ Беларусь
+http://vod.mors.by/channel?id=49&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40003|1052" tvg-logo="http://smartepg.ru/logos/40001/square/367.png", ТНТ-International (Беларусь)
+http://vod.mors.by/channel?id=17&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|1714" tvg-logo="http://smartepg.ru/logos/40001/square/262.png", Теледом
+http://vod.mors.by/channel?id=1&u=crash&p=crash
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/213/channels/12" tvg-logo="http://smartepg.ru/logos/40009/square/775.png", Родное кино
+http://vod.mors.by/channel?id=74&u=crash&p=crash
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/213/channels/799" tvg-logo="http://smartepg.ru/logos/40009/square/826.png", Киносерия
+http://vod.mors.by/channel?id=96&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|132" tvg-logo="http://smartepg.ru/logos/40009/square/88.png", TV XXI
+http://vod.mors.by/channel?id=14&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|158" tvg-logo="http://smartepg.ru/logos/40009/square/93.png", Время
+http://vod.mors.by/channel?id=133&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|259" tvg-logo="http://smartepg.ru/logos/40001/square/939.png", РБК ТВ
+http://vod.mors.by/channel?id=97&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|208" tvg-logo="http://smartepg.ru/logos/40009/square/948.png", EuroNews
+http://vod.mors.by/channel?id=104&u=crash&p=crash
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/213/channels/165" tvg-logo="http://smartepg.ru/logos/40001/square/223.png", Жара
+http://vod.mors.by/channel?id=111&u=crash&p=crash
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/213/channels/798" tvg-logo="http://smartepg.ru/logos/40009/square/779.png", Индийское кино
+http://vod.mors.by/channel?id=81&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|97" tvg-logo="http://smartepg.ru/logos/40009/square/214.png", Paramount Comedy
+http://vod.mors.by/channel?id=90&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|188" tvg-logo="http://smartepg.ru/logos/40009/square/103.png", Кинохит
+http://vod.mors.by/channel?id=112&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|162" tvg-logo="http://smartepg.ru/logos/40001/square/50.png", Дом кино
+http://vod.mors.by/channel?id=108&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|54" tvg-logo="http://smartepg.ru/logos/40009/square/272.png", Fox Life HD
+http://vod.mors.by/channel?id=75&u=crash&p=crash
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/213/channels/644" tvg-logo="http://smartepg.ru/logos/40009/square/778.png", Киномикс
+http://vod.mors.by/channel?id=123&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|1780" tvg-logo="http://smartepg.ru/logos/40009/square/803.png", Paramount Channel
+http://vod.mors.by/channel?id=93&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|252" tvg-logo="http://smartepg.ru/logos/40009/square/777.png", Премьера
+http://vod.mors.by/channel?id=77&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|220" tvg-logo="http://smartepg.ru/logos/40009/square/300.png", Мужское кино
+http://vod.mors.by/channel?id=82&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|13" tvg-logo="http://smartepg.ru/logos/40009/square/286.png", Amedia Premium HD
+http://vod.mors.by/channel?id=68&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|223" tvg-logo="http://smartepg.ru/logos/40009/square/232.png", Музыка Первого
+http://vod.mors.by/channel?id=115&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|222" tvg-logo="http://smartepg.ru/logos/40001/square/200.png", МУЗ - ТВ
+http://vod.mors.by/channel?id=109&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|330" tvg-logo="http://smartepg.ru/logos/40009/square/16.png", Звезда
+http://vod.mors.by/channel?id=124&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|1275" tvg-logo="http://smartepg.ru/logos/40001/square/306.png", MTV Live HD
+http://vod.mors.by/channel?id=4&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|88" tvg-logo="http://smartepg.ru/logos/40009/square/268.png", Nat Geo Wild HD
+http://vod.mors.by/channel?id=7&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|28" tvg-logo="http://smartepg.ru/logos/40009/square/71.png", Cartoon Network
+http://vod.mors.by/channel?id=22&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40003|45" tvg-logo="http://smartepg.ru/logos/40009/square/84.png", Nickelodeon Россия
+http://vod.mors.by/channel?id=87&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40003|687" tvg-logo="http://smartepg.ru/logos/40001/square/15.png", Карусель
+http://vod.mors.by/channel?id=106&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|197" tvg-logo="http://smartepg.ru/logos/40009/square/104.png", Мама
+http://vod.mors.by/channel?id=72&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40001|430" tvg-logo="http://smartepg.ru/logos/40003/square/771.png", Сетанта Спорт HD
+http://vod.mors.by/channel?id=145&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|49" tvg-logo="http://smartepg.ru/logos/40009/square/78.png", Extreme Sports Channel
+http://vod.mors.by/channel?id=24&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|501785" tvg-logo="http://smartepg.ru/logos/40003/square/1260.png", Setanta Sports + HD
+http://vod.mors.by/channel?id=146&u=crash&p=crash
+#EXTINF:0 audio-track=1 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|45" tvg-logo="http://smartepg.ru/logos/40010/square/45.png", Eurosport 1 HD
+http://vod.mors.by/channel?id=3&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|300018" tvg-logo="http://smartepg.ru/logos/40009/square/294.png", 24 Техно
+http://vod.mors.by/channel?id=9&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|100082" tvg-logo="http://smartepg.ru/logos/40009/square/279.png", History
+http://vod.mors.by/channel?id=136&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|57" tvg-logo="http://smartepg.ru/logos/40009/square/811.png", Galaxy
+http://vod.mors.by/channel?id=71&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|138" tvg-logo="http://smartepg.ru/logos/40001/square/147.png", Viasat History
+http://vod.mors.by/channel?id=38&u=crash&p=crash
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/213/channels/393" tvg-logo="http://smartepg.ru/logos/40009/square/843.png", Fine Living
+http://vod.mors.by/channel?id=13&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|294" tvg-logo="http://smartepg.ru/logos/40001/square/263.png", Телекафе
+http://vod.mors.by/channel?id=57&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|192" tvg-logo="http://smartepg.ru/logos/40003/square/383.png", Кухня ТВ
+http://vod.mors.by/channel?id=83&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|300014" tvg-logo="http://smartepg.ru/logos/40001/square/158.png", Кто есть кто
+http://vod.mors.by/channel?id=15&u=crash&p=crash
+#EXTINF:0 audio-track=1 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|124" tvg-logo="http://smartepg.ru/logos/40009/square/179.png", Travel Channel HD
+http://vod.mors.by/channel?id=95&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|126" tvg-logo="http://smartepg.ru/logos/40009/square/36.png", Travel+Adventure HD
+http://vod.mors.by/channel?id=144&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|219" tvg-logo="http://smartepg.ru/logos/40009/square/105.png", Моя планета
+http://vod.mors.by/channel?id=26&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|304" tvg-logo="http://smartepg.ru/logos/40009/square/155.png", Успех
+http://vod.mors.by/channel?id=62&u=crash&p=crash
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|300029" tvg-logo="http://smartepg.ru/logos/40009/square/400.png", ОНТ (Беларусь) HD
+http://vod.mors.by/channel?id=2&u=crash&p=crash
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/213/channels/162" tvg-logo="http://smartepg.ru/logos/40001/square/3.png", НТВ
+http://auth.tvtune.net/h/952/1/6/eXdMT0M3dlFPVnRmYlJoRDNXSHl5YWho
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40003|8" tvg-logo="http://smartepg.ru/logos/40001/square/1.png", Первый канал (Россия)
+http://auth.tvtune.net/h/14/1/6/elFKbllydlFPVnNzY1FUeDJFUWROMktm
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|255" tvg-logo="http://smartepg.ru/logos/40009/square/745.png", Пятый Канал
+http://auth.tvtune.net/h/94/1/6/MUFJZ0RMdlFPVnQwNDFRQ0tWUW9Zc1hG
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|2" tvg-logo="http://smartepg.ru/logos/40009/square/6.png", Россия 1
+http://auth.tvtune.net/h/15/1/6/MWdKUDZMdlFPVnUyb25maUUxalB0VGV6
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|245" tvg-logo="http://smartepg.ru/logos/40009/square/6.png", Россия 1 +4
+http://auth.tvtune.net/h/227/1/6/MkFKazI3dlFPVnY2UTFBRE5WM1dUWE9T
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/213/channels/649" tvg-logo="http://smartepg.ru/logos/40009/square/7.png", ТВ Центр
+http://auth.tvtune.net/h/16/1/6/M3dKNnhydlFPVnVVYmJJQXg1NkxLY2kr
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|243" tvg-logo="http://smartepg.ru/logos/40001/square/1.png", Первый канал (Орбита 3 +4)
+http://auth.tvtune.net/h/220/1/6/endKbU1idlFPVnU1bThJNUtNMEdDVnZT
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|300090" tvg-logo="http://smartepg.ru/logos/40001/square/1.png", Первый канал (СНГ)
+http://auth.tvtune.net/h/572/1/6/MFFMOUM3dlFPVnVGYjBQSzA5OVM0MEt3
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|213" tvg-logo="http://smartepg.ru/logos/40009/square/50.png", Мир 24
+http://auth.tvtune.net/h/676/1/6/eVFMcXZMdlFPVnNmN3dvMlZYenhUU2o4
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|267" tvg-logo="http://smartepg.ru/logos/40009/square/750.png", Россия 24
+http://auth.tvtune.net/h/223/1/6/MlFKczNidlFPVnQvNFB6dURFNDZvemVu
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|229" tvg-logo="http://smartepg.ru/logos/40009/square/81.png", Mezzo
+http://auth.tvtune.net/h/55/1/6/d2dJQnU3dlFPVnYvSUNZRDBIVDdiQXFH
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|74" tvg-logo="http://smartepg.ru/logos/40009/square/139.png", Mezzo Live HD
+http://auth.tvtune.net/h/545/1/6/eEFKdGtMdlFPVnYzZWZudml6SXNTYk15
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40003|687" tvg-logo="http://smartepg.ru/logos/40001/square/15.png", Карусель
+http://auth.tvtune.net/h/435/1/6/eUFLN25MdlFPVnRFL1NxWDlOM0FDbFFO
+#EXTINF:-1,Russkiy illuzion INT
+http://109.248.236.41:4433/udp/238.1.1.129:1234
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/213/channels/37" tvg-logo="http://smartepg.ru/logos/40009/square/852.png", Cinema
+http://109.248.236.41:4433/udp/238.1.1.125:1234
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40003|1105" tvg-logo="http://smartepg.ru/logos/40009/square/744.png", Домашний International
+http://109.248.236.41:4433/udp/238.1.1.120:1234
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40003|941" tvg-logo="http://smartepg.ru/logos/40001/square/418.png", Перец International
+http://109.248.236.41:4433/udp/238.1.1.102:1234
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|264" tvg-logo="http://smartepg.ru/logos/40009/square/6.png", Россия 1 +2
+http://109.248.236.41:4433/udp/238.1.1.92:1234
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|244" tvg-logo="http://smartepg.ru/logos/40001/square/1.png", Первый канал (Орбита 4 +2)
+http://109.248.236.41:4433/udp/238.1.1.91:1234
+#EXTINF:0 tvg-logo="http://smartepg.ru/logos/40001/square/993.png", РЕН ТВ International
+http://109.248.236.41:4433/udp/238.1.1.72:1234
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|1556" tvg-logo="http://smartepg.ru/logos/40009/square/358.png", СТС International
+http://109.248.236.41:4433/udp/238.1.1.67:1234
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40001|1006" tvg-logo="http://smartepg.ru/logos/40009/square/971.png", Foodman.club HD
+http://serv25.vintera.tv:8081/foodman/club/playlist.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40001|942" tvg-logo="http://smartepg.ru/logos/40009/square/953.png", Классика Кино
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:0 tvg-name="epg_url:sartepg.ru/teleguide.php|40001|947" tvg-logo="http://smartepg.ru/logos/40009/square/954.png", Неизвестная Планета HD
+http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/213/channels/1815" tvg-logo="http://smartepg.ru/logos/40001/square/242.png", Загородный Int
+http://yandex.kp0t.ga/kal/zagorod/zagorod0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/213/channels/1815" tvg-logo="http://smartepg.ru/logos/40001/square/242.png", Загородный Int HD
+http://yandex.kp0t.ga/kal/zagorod/zagorod0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/213/channels/1778" tvg-logo="http://smartepg.ru/logos/40009/square/962.png", Охотник и Рыболов Int
+http://yandex.kp0t.ga/kal/ohotnik/ohotnik0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/213/channels/1778" tvg-logo="http://smartepg.ru/logos/40009/square/962.png", Охотник и Рыболов Int HD
+http://yandex.kp0t.ga/kal/ohotnik/ohotnik0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|106" tvg-logo="http://smartepg.ru/logos/40009/square/4.png", Москва-24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|219" tvg-logo="http://smartepg.ru/logos/40009/square/105.png", Моя планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|2" tvg-logo="http://smartepg.ru/logos/40009/square/6.png", Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_1/playlist_hig.m3u8
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/213/channels/984" tvg-logo="http://smartepg.ru/logos/40009/square/765.png", Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_vhig.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|267" tvg-logo="http://smartepg.ru/logos/40009/square/750.png", Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b800000.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|270" tvg-logo="http://smartepg.ru/logos/40009/square/9.png", Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_hig.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40003|94" tvg-logo="http://smartepg.ru/logos/40009/square/315.png", М1
+http://50.7.136.155:8081/m1/tracks-1,2/index.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40003|445" tvg-logo="http://smartepg.ru/logos/40009/square/316.png", М2
+http://50.7.136.155:8081/m2/index.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|400026" tvg-logo="http://smartepg.ru/logos/40009/square/320.png", Music Box Ua
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:0 tvg-name="https://m.tv.yandex.ru/87/channels/167" tvg-logo="http://smartepg.ru/logos/40009/square/455.png", O-TV
+http://212.26.146.148/hls/otv.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40003|1286", Первый музыкальный
+http://rtmp.one.by:1200
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40003|1286", Первый музыкальный HD
+http://rtmp.one.by:1300
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40003|1286", Первый русский музыкальный
+http://rtmp.one.by:2200
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40003|1286", Первый русский музыкальный HD
+http://rtmp.one.by:2300
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40010|4" tvg-logo="http://smartepg.ru/logos/40010/square/4.png", 360 HD
+http://now2.eaglecdn.com/stream_transcoded_720/360tv_360media_hi/index.m3u8
+#EXTINF:0 tvg-name="epg_url:smartepg.ru/teleguide.php|40000|631", HD Media
+http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
