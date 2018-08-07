@@ -23,6 +23,6 @@
 	</channel>
 	<channel>
 		<title>IPTV</title>
-		<playlist_url>https://github.com/fzzksiniy/Home-IPTV/raw/master/M3U/iptv.m3u</playlist_url>
+		<playlist_url>https://raw.githubusercontent.com/fzzksiniy/Home-IPTV/master/M3U/iptv.m3u</playlist_url>
 	</channel>
 </items>
