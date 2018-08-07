@@ -18,4 +18,8 @@
 		<logo_30x30>https://raw.githubusercontent.com/fzzksiniy/Home-IPTV/master/Icon/%D0%A2%D0%92.png</logo_30x30>
 		<playlist_url>https://raw.githubusercontent.com/fzzksiniy/Home-IPTV/master/XML/%D0%A2%D0%92.xml</playlist_url>
 	</channel>
+	<channel>
+		<title>USB</title>
+		<playlist_url>ScanUSB.vc</playlist_url>
+	</channel>
 </items>
